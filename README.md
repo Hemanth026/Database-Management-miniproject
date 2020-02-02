@@ -1,1 +1,3 @@
-# Database-Management-miniproject
+As a part of DBMS  miniproject, I did an interactive dynamic webpage that would perform various operations on the database.
+The database deals with "Online food delivery system", where the user can order food from various restaurants(like Swiggy..).
+I have used the html,bootstrap for the front end and php for the backend. I have used the XAMPP server(phpmyadmin) to upload the database and perform various operations on it. The ER diagram and the Relational Schema of the miniproject is given the project report. The report also constist of some queries that were executed on the database and the results are mentioned.  
